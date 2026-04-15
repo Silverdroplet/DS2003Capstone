@@ -3,7 +3,7 @@
 ## Project Description
 This interactive dashboard explores over 160,000 Spotify tracks from 1921-2020 to analyze how the audio characteristics of popular music have evolved alongside historical events and what makes a hit song today.
 
-**Team 10 Members:** [Marilyn Ross, Varun Korisapati, Simi Chakravarty]
+**Team 10 Members:** Marilyn Ross, Varun Korisapati, and Simi Chakravarty
 
 ## Prerequisites
 To run this application locally, you will need R and RStudio installed on your machine. You will also need to install the following R packages. You can install them by running this command in your R console:
